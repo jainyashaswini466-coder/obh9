@@ -41,22 +41,22 @@
 
 //no. of rows = 5
 //no. of cols = 5
-let j = 1
-while(j<=5){
+// let j = 1
+// while(j<=5){
 
 
-let i = 5
-let str = ''
-while(i>=j){
-    str+=i+' '
+// let i = 5
+// let str = ''
+// while(i>=j){
+//     str+=i+' '
 
-    i--
-}
+//     i--
+// }
 
-console.log(str)
+// console.log(str)
 
-j++
-}
+// j++
+// }
 
 
 
@@ -92,3 +92,40 @@ j++
 // * * *
 // * * * *
 // * * * * *
+let n = 5
+
+for(let i=5; i<=n; i++){
+   
+}
+
+// * * * * *
+// * * * *
+// * * *
+// * *
+// *
+
+
+
+//         *
+//       * *
+//     * * *
+//   * * * *
+// * * * * *
+
+// * * * * *
+//   * * * *
+//     * * *
+//       * *
+//         *
+
+
+
+//Start pyramid - [https://course.acciojob.com/idle?question=e9e6daa1-9972-4e6c-a285-7a3e084a56b9](https://course.acciojob.com/idle?question=e9e6daa1-9972-4e6c-a285-7a3e084a56b9)
+
+
+// Continuous Number Triangle - https://course.acciojob.com/idle?question=8e5ac095-1d55-41cc-aaa7-75f2c24f953a
+// 1
+// 2 3
+// 4 5 6
+// 7 8 9 10
+// 11 12 13 14 15
